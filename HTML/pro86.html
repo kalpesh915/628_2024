@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Example</title>
+
+    <style>
+
+        table{
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        table, td, th{
+            border: 1px solid black;
+        }
+
+        th{
+            background-color: black;
+            color: white;
+            padding: 20px;
+        }
+
+        tr:nth-child(even){
+            background-color: tomato;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+
+            <tr>
+                <th colspan="5">10.5 Student Information Table</th>
+            </tr>
+            <tr>
+                <th>Roll</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>City</th>
+                <th>Gender</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Disha</td>
+                <td>Patel</td>
+                <td>Rajkot</td>
+                <td>Female</td>
+            </tr>
+
+            <tr>
+                <td>2</td>
+                <td>Twisha</td>
+                <td>Patel</td>
+                <td>Rajkot</td>
+                <td>Female</td>
+            </tr>
+
+            <tr>
+                <td>3</td>
+                <td>Smita</td>
+                <td>Patel</td>
+                <td>Rajkot</td>
+                <td>Female</td>
+            </tr>
+
+            <tr>
+                <td>4</td>
+                <td>Soham</td>
+                <td>Patel</td>
+                <td>Rajkot</td>
+                <td>Male</td>
+            </tr>
+
+            <tr>
+                <td>5</td>
+                <td>Sunil</td>
+                <td>Patel</td>
+                <td>Rajkot</td>
+                <td>Male</td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+
+        </tfoot>
+    </table>
+</body>
+</html>
