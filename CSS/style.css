@@ -1,0 +1,15 @@
+body{
+    background-color: powderblue;
+}
+
+h1{
+    background-color: olivedrab;
+    color: white;
+    padding: 20px;
+}
+
+p{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
