@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        ul{
+            list-style-type: none;
+            margin: 0px;
+            padding: 0px;
+            overflow: hidden;
+            background-color: #333333;
+        }
+
+        li{
+            float: left;
+        }
+
+        li a, .dropbtn{
+            display: inline-block;
+            color: white;
+            text-align: center;
+            padding: 16px 14px;
+            text-decoration: none;
+        }
+
+        li a:hover, .dropdown .dropbtn:hover{
+            background-color: red;
+        }
+
+        li.dropdown{
+            display: inline-block;
+        }
+
+        .dropdown-content{
+            display: none;
+            position: absolute;
+            background-color: #333333;
+            min-width: 160px;
+            box-shadow: 0px 5px 8px 10px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+        }
+
+        .dropdown-content a{
+            color: white;
+            display: block;
+            padding: 12px;
+        }
+
+        .dropdown-content a:hover{
+            background-color: red;
+            color: white;
+        }
+
+        .dropdown:hover .dropdown-content{
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li><a href="#">Link 1</a></li>
+        <li><a href="#">Link 2</a></li>
+        <li><a href="#">Link 3</a></li>
+        <li><a href="#">Link 4</a></li>
+        <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">Link 5</a>
+            <div class="dropdown-content">
+                <a href="#">Link 5.1</a>
+                <a href="#">Link 5.2</a>
+                <a href="#">Link 5.3</a>
+                <a href="#">Link 5.4</a>
+                <a href="#">Link 5.5</a>
+            </div>
+        </li>
+        <li class="dropdown">
+            <a href="javascript:void(0)" class="dropbtn">Languages</a>
+            <div class="dropdown-content">
+                <a href="#">PHP</a>
+                <a href="#">Python</a>
+                <a href="#">Java</a>
+                <a href="#">javascript</a>
+                <a href="#">Node</a>
+            </div>
+        </li>
+    </ul>
+</body>
+</html>
