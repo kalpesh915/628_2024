@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        *{
+            box-sizing: border-box;
+        }
+
+        form{
+            width: 100%;
+            padding: 20px;
+        }
+
+        input[type="search"]{
+            width: 100%;
+            padding: 16px;
+            padding-left: 60px;
+            margin: 5px 0px;
+            border: none;
+            outline: none;
+            border-bottom: 1px solid black;
+            background: url(images/search.jpg) no-repeat left center;
+            background-size: 50px;
+        }
+
+        input[type="search"]:focus{
+            background-color: tomato;
+            border: 1px solid #333;
+        }
+
+        label{
+            font-size: 26px;
+        }
+
+        input[type="submit"], input[type="reset"]{
+            display: inline-block;
+            border: none;
+            padding: 20px;
+            text-align: center;
+            color: white;
+            background-color: blue;
+        }
+
+        .reset{
+            background-color: red !important;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <label>Search Here</label>
+        <input type="search" name="search" id="search" required><br>
+        <input type="submit" value="Send Data">
+        <input type="reset" value="Reset" class="reset">
+    </form>
+</body>
+</html>
