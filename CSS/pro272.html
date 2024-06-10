@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        body{
+            counter-reset: section;
+        }
+
+        h1::before{
+            counter-increment: section;
+            content: "State " counter(section)". ";
+        }
+
+        h1{
+            counter-reset: subsection;
+        }
+
+        h2::before{
+            counter-increment: subsection;
+            content:  counter(section)"."counter(subsection) " : ";
+        }
+    </style>
+</head>
+<body>
+    <h1>Gujarat</h1>
+    <h2>Rajkot</h2>
+    <h2>Ahamdabad</h2>
+
+    <h1>Maharashtra</h1>
+    <h2>Bomaby</h2>
+    <h2>Puna</h2>
+
+    <h1>Rajasthan</h1>
+    <h2>Udaypur</h2>
+    <h2>Jaypur</h2>
+</body>
+</html>
