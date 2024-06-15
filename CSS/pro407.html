@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        body{
+            text-align: center;
+        }
+
+        .tooltip{
+            position: relative;
+            display: inline-block;
+            border-bottom: 1px dotted black;
+        }
+
+        .tooltip-text{
+            width: 120px;
+            background-color: black;
+            color: white;
+            padding: 16px;
+            border-radius: 20px;
+            position: absolute;
+            left: 50%;
+            top: 105%;
+            margin-left: -60px;
+            z-index: 1;
+            opacity: 0;
+            transition: all 1s;
+        }
+
+        .tooltip .tooltip-text::after{
+            content: "";
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            margin-left:-5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: transparent transparent black transparent;
+        }
+
+        .tooltip:hover .tooltip-text{
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <h1>Example of tooltip with CSS</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, in, et, assumenda autem quos vel eaque sunt quis voluptatem dolore placeat dignissimos voluptate laudantium quasi facere est eos excepturi quisquam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, provident. Est sed eius quos id facilis, voluptate, reprehenderit error velit deserunt suscipit voluptas aut. Suscipit cum nisi fuga doloribus saepe.</p>
+
+    <div class="tooltip">
+        Mouse over me
+        <div class="tooltip-text">
+            Welcome to CSS
+        </div>
+    </div>  
+</body>
+</html>
