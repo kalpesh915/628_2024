@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .container{
+            position: relative;
+            width: 500px;
+        }
+
+        .container .image{
+            width: 100%;
+            display: block;
+            height: auto;
+        }
+
+        .container .overlay{
+            position: absolute;
+            bottom: 0px;
+            right: 0px;
+            left: 0px;
+            height: 0%;
+            width: 100%;
+            transition: all 0.5s;
+            background-color: #008cba;
+            overflow: auto;
+        }
+
+        .container:hover .overlay{
+            height: 100%;
+        }
+
+        .container .overlay .text{
+            color: white;
+            font-size: 25px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="images/img_avatar.png">
+
+        <div class="overlay">
+            <div class="text">Welcome to CSS</div>
+        </div>
+    </div>
+</body>
+</html>
