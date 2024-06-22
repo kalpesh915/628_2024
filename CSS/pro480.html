@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .breadcrumbs{
+            padding: 8px 16px;
+            list-style: none;
+            background-color: #f3f3f3;
+        }
+
+        .breadcrumbs li{
+            display: inline;
+        }
+
+        .breadcrumbs li::before{
+            padding: 5px;
+            content: "/\00a0"
+        }
+    </style>
+</head>
+<body>
+    <ul class="breadcrumbs">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Settings</a></li>
+        <li><a href="#">Account</a></li>
+        <li><a href="#">Password</a></li>
+        <li><a href="#">2 Step</a></li>
+        <li><a href="#">SMS</a></li>
+        <li>Enter OTP</li>
+    </ul>
+</body>
+</html>
