@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .wrapper {
+            overflow: auto;
+        }
+
+        #main {
+            margin-left: 4px;
+        }
+
+        #leftsidebar {
+            float: none;
+            width: auto;
+        }
+
+        #menulist {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .menuitem {
+            background: #CDF0F6;
+            border: 1px solid #d4d4d4;
+            border-radius: 4px;
+            list-style-type: none;
+            margin: 4px;
+            padding: 2px;
+        }
+
+        @media screen and (min-width:600px){
+            #leftsidebar{
+                width: 200px;
+                float: left;
+            }
+
+            #main{
+                margin-left: 220px;
+            }
+        }
+    </style>
+</head>
+
+<body onresize="getWidth()">
+    <h1 id="op"></h1>
+    <div id="wrapper">
+        <div id="leftsidebar">
+            <ul id="menulist">
+                <li class="menuitem">Link 1</li>
+                <li class="menuitem">Link 2</li>
+                <li class="menuitem">Link 3</li>
+                <li class="menuitem">Link 4</li>
+                <li class="menuitem">Link 5</li>
+            </ul>
+        </div>
+
+        <div id="main">
+            <h1>This is Main Section of Webpage</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi officia quos maiores omnis ratione totam quaerat impedit distinctio temporibus voluptas ab modi, a atque officiis tenetur! Architecto fugit dolorum unde.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi officia quos maiores omnis ratione totam quaerat impedit distinctio temporibus voluptas ab modi, a atque officiis tenetur! Architecto fugit dolorum unde.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi officia quos maiores omnis ratione totam quaerat impedit distinctio temporibus voluptas ab modi, a atque officiis tenetur! Architecto fugit dolorum unde.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi officia quos maiores omnis ratione totam quaerat impedit distinctio temporibus voluptas ab modi, a atque officiis tenetur! Architecto fugit dolorum unde.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi officia quos maiores omnis ratione totam quaerat impedit distinctio temporibus voluptas ab modi, a atque officiis tenetur! Architecto fugit dolorum unde.</p>
+        </div>
+    </div>
+
+</body>
+
+</html>
+
+<script>
+    let op = document.getElementById("op");
+
+    function getWidth() {
+        op.innerHTML = window.innerWidth;
+    }
+</script>

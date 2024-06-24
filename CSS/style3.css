@@ -1,0 +1,16 @@
+body{
+    background-color: powderblue;
+}
+
+h1{
+    background-color: purple;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+p{
+    background-color: green;
+    color: white;
+    padding: 20px;
+}
