@@ -1,0 +1,1622 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <products>
+         <id>1</id>
+         <title>Essence Mascara Lash Princess</title>
+         <description>The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.</description>
+         <category>beauty</category>
+         <price>9.99</price>
+         <discountPercentage>7.17</discountPercentage>
+         <rating>4.94</rating>
+         <stock>5</stock>
+         <tags>beauty</tags>
+         <tags>mascara</tags>
+         <brand>Essence</brand>
+         <sku>RCH45Q1A</sku>
+         <weight>2</weight>
+         <dimensions>
+             <width>23.17</width>
+             <height>14.43</height>
+             <depth>28.01</depth>
+         </dimensions>
+         <warrantyInformation>1 month warranty</warrantyInformation>
+         <shippingInformation>Ships in 1 month</shippingInformation>
+         <availabilityStatus>Low Stock</availabilityStatus>
+         <reviews>
+             <rating>2</rating>
+             <comment>Very unhappy with my purchase!</comment>
+             <date>2024-05-23T08:56:21.618Z</date>
+             <reviewerName>John Doe</reviewerName>
+             <reviewerEmail>john.doe@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>2</rating>
+             <comment>Not as described!</comment>
+             <date>2024-05-23T08:56:21.618Z</date>
+             <reviewerName>Nolan Gonzalez</reviewerName>
+             <reviewerEmail>nolan.gonzalez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very satisfied!</comment>
+             <date>2024-05-23T08:56:21.618Z</date>
+             <reviewerName>Scarlett Wright</reviewerName>
+             <reviewerEmail>scarlett.wright@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>30 days return policy</returnPolicy>
+         <minimumOrderQuantity>24</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.618Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.618Z</updatedAt>
+             <barcode>9164035109868</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>2</id>
+         <title>Eyeshadow Palette with Mirror</title>
+         <description>The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.</description>
+         <category>beauty</category>
+         <price>19.99</price>
+         <discountPercentage>5.5</discountPercentage>
+         <rating>3.28</rating>
+         <stock>44</stock>
+         <tags>beauty</tags>
+         <tags>eyeshadow</tags>
+         <brand>Glamour Beauty</brand>
+         <sku>MVCFH27F</sku>
+         <weight>3</weight>
+         <dimensions>
+             <width>12.42</width>
+             <height>8.63</height>
+             <depth>29.13</depth>
+         </dimensions>
+         <warrantyInformation>1 year warranty</warrantyInformation>
+         <shippingInformation>Ships in 2 weeks</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>4</rating>
+             <comment>Very satisfied!</comment>
+             <date>2024-05-23T08:56:21.618Z</date>
+             <reviewerName>Liam Garcia</reviewerName>
+             <reviewerEmail>liam.garcia@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>1</rating>
+             <comment>Very disappointed!</comment>
+             <date>2024-05-23T08:56:21.618Z</date>
+             <reviewerName>Nora Russell</reviewerName>
+             <reviewerEmail>nora.russell@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Highly impressed!</comment>
+             <date>2024-05-23T08:56:21.618Z</date>
+             <reviewerName>Elena Baker</reviewerName>
+             <reviewerEmail>elena.baker@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>30 days return policy</returnPolicy>
+         <minimumOrderQuantity>32</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.618Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.618Z</updatedAt>
+             <barcode>2817839095220</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>3</id>
+         <title>Powder Canister</title>
+         <description>The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.</description>
+         <category>beauty</category>
+         <price>14.99</price>
+         <discountPercentage>18.14</discountPercentage>
+         <rating>3.82</rating>
+         <stock>59</stock>
+         <tags>beauty</tags>
+         <tags>face powder</tags>
+         <brand>Velvet Touch</brand>
+         <sku>9EN8WLT2</sku>
+         <weight>8</weight>
+         <dimensions>
+             <width>24.16</width>
+             <height>10.7</height>
+             <depth>11.07</depth>
+         </dimensions>
+         <warrantyInformation>2 year warranty</warrantyInformation>
+         <shippingInformation>Ships in 1-2 business days</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very happy with my purchase!</comment>
+             <date>2024-05-23T08:56:21.618Z</date>
+             <reviewerName>Ethan Thompson</reviewerName>
+             <reviewerEmail>ethan.thompson@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Great value for money!</comment>
+             <date>2024-05-23T08:56:21.618Z</date>
+             <reviewerName>Levi Hicks</reviewerName>
+             <reviewerEmail>levi.hicks@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Highly impressed!</comment>
+             <date>2024-05-23T08:56:21.618Z</date>
+             <reviewerName>Hazel Gardner</reviewerName>
+             <reviewerEmail>hazel.gardner@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>60 days return policy</returnPolicy>
+         <minimumOrderQuantity>25</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.618Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.618Z</updatedAt>
+             <barcode>0516267971277</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>4</id>
+         <title>Red Lipstick</title>
+         <description>The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.</description>
+         <category>beauty</category>
+         <price>12.99</price>
+         <discountPercentage>19.03</discountPercentage>
+         <rating>2.51</rating>
+         <stock>68</stock>
+         <tags>beauty</tags>
+         <tags>lipstick</tags>
+         <brand>Chic Cosmetics</brand>
+         <sku>O5IF1NTA</sku>
+         <weight>5</weight>
+         <dimensions>
+             <width>14.37</width>
+             <height>13.94</height>
+             <depth>14.6</depth>
+         </dimensions>
+         <warrantyInformation>Lifetime warranty</warrantyInformation>
+         <shippingInformation>Ships in 2 weeks</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Great product!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Leo Rivera</reviewerName>
+             <reviewerEmail>leo.rivera@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Very pleased!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Oscar Powers</reviewerName>
+             <reviewerEmail>oscar.powers@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very pleased!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Carter Rivera</reviewerName>
+             <reviewerEmail>carter.rivera@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>90 days return policy</returnPolicy>
+         <minimumOrderQuantity>6</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.619Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.619Z</updatedAt>
+             <barcode>9444582199406</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>5</id>
+         <title>Red Nail Polish</title>
+         <description>The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.</description>
+         <category>beauty</category>
+         <price>8.99</price>
+         <discountPercentage>2.46</discountPercentage>
+         <rating>3.91</rating>
+         <stock>71</stock>
+         <tags>beauty</tags>
+         <tags>nail polish</tags>
+         <brand>Nail Couture</brand>
+         <sku>YUIIIP4W</sku>
+         <weight>9</weight>
+         <dimensions>
+             <width>8.11</width>
+             <height>10.89</height>
+             <depth>29.06</depth>
+         </dimensions>
+         <warrantyInformation>1 year warranty</warrantyInformation>
+         <shippingInformation>Ships in 1 week</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very pleased!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Leo Rivera</reviewerName>
+             <reviewerEmail>leo.rivera@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Great product!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Evan Reed</reviewerName>
+             <reviewerEmail>evan.reed@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Highly recommended!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Evelyn Sanchez</reviewerName>
+             <reviewerEmail>evelyn.sanchez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>No return policy</returnPolicy>
+         <minimumOrderQuantity>46</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.619Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.619Z</updatedAt>
+             <barcode>3212847902461</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>6</id>
+         <title>Calvin Klein CK One</title>
+         <description>CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.</description>
+         <category>fragrances</category>
+         <price>49.99</price>
+         <discountPercentage>0.32</discountPercentage>
+         <rating>4.85</rating>
+         <stock>17</stock>
+         <tags>fragrances</tags>
+         <tags>perfumes</tags>
+         <brand>Calvin Klein</brand>
+         <sku>DZM2JQZE</sku>
+         <weight>5</weight>
+         <dimensions>
+             <width>11.53</width>
+             <height>14.44</height>
+             <depth>6.81</depth>
+         </dimensions>
+         <warrantyInformation>5 year warranty</warrantyInformation>
+         <shippingInformation>Ships overnight</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Great value for money!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Sophia Brown</reviewerName>
+             <reviewerEmail>sophia.brown@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>3</rating>
+             <comment>Very disappointed!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Madison Collins</reviewerName>
+             <reviewerEmail>madison.collins@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>1</rating>
+             <comment>Poor quality!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Maya Reed</reviewerName>
+             <reviewerEmail>maya.reed@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>No return policy</returnPolicy>
+         <minimumOrderQuantity>20</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.619Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.619Z</updatedAt>
+             <barcode>2210136215089</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png</images>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png</images>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>7</id>
+         <title>Chanel Coco Noir Eau De</title>
+         <description>Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.</description>
+         <category>fragrances</category>
+         <price>129.99</price>
+         <discountPercentage>18.64</discountPercentage>
+         <rating>2.76</rating>
+         <stock>41</stock>
+         <tags>fragrances</tags>
+         <tags>perfumes</tags>
+         <brand>Chanel</brand>
+         <sku>K71HBCGS</sku>
+         <weight>4</weight>
+         <dimensions>
+             <width>21.27</width>
+             <height>28</height>
+             <depth>11.89</depth>
+         </dimensions>
+         <warrantyInformation>1 week warranty</warrantyInformation>
+         <shippingInformation>Ships in 1 month</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>1</rating>
+             <comment>Disappointing product!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Lincoln Kelly</reviewerName>
+             <reviewerEmail>lincoln.kelly@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Great product!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Lincoln Kelly</reviewerName>
+             <reviewerEmail>lincoln.kelly@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Excellent quality!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Lucas Allen</reviewerName>
+             <reviewerEmail>lucas.allen@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>60 days return policy</returnPolicy>
+         <minimumOrderQuantity>5</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.619Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.619Z</updatedAt>
+             <barcode>1435582999795</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png</images>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png</images>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>8</id>
+         <title>Dior J'adore</title>
+         <description>J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.</description>
+         <category>fragrances</category>
+         <price>89.99</price>
+         <discountPercentage>17.44</discountPercentage>
+         <rating>3.31</rating>
+         <stock>91</stock>
+         <tags>fragrances</tags>
+         <tags>perfumes</tags>
+         <brand>Dior</brand>
+         <sku>E70NB03B</sku>
+         <weight>10</weight>
+         <dimensions>
+             <width>21.51</width>
+             <height>7</height>
+             <depth>26.51</depth>
+         </dimensions>
+         <warrantyInformation>Lifetime warranty</warrantyInformation>
+         <shippingInformation>Ships in 2 weeks</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Fast shipping!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Zoe Nicholson</reviewerName>
+             <reviewerEmail>zoe.nicholson@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Excellent quality!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Addison Wright</reviewerName>
+             <reviewerEmail>addison.wright@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Would buy again!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Clara Berry</reviewerName>
+             <reviewerEmail>clara.berry@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>7 days return policy</returnPolicy>
+         <minimumOrderQuantity>8</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.619Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.619Z</updatedAt>
+             <barcode>0887083199279</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png</images>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png</images>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/3.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>9</id>
+         <title>Dolce Shine Eau de</title>
+         <description>Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.</description>
+         <category>fragrances</category>
+         <price>69.99</price>
+         <discountPercentage>11.47</discountPercentage>
+         <rating>2.68</rating>
+         <stock>3</stock>
+         <tags>fragrances</tags>
+         <tags>perfumes</tags>
+         <brand>Dolce & Gabbana</brand>
+         <sku>1NBFK980</sku>
+         <weight>5</weight>
+         <dimensions>
+             <width>17</width>
+             <height>24.57</height>
+             <depth>13.3</depth>
+         </dimensions>
+         <warrantyInformation>5 year warranty</warrantyInformation>
+         <shippingInformation>Ships in 1-2 business days</shippingInformation>
+         <availabilityStatus>Low Stock</availabilityStatus>
+         <reviews>
+             <rating>4</rating>
+             <comment>Very satisfied!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Xavier Wright</reviewerName>
+             <reviewerEmail>xavier.wright@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>1</rating>
+             <comment>Poor quality!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Mila Hernandez</reviewerName>
+             <reviewerEmail>mila.hernandez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very happy with my purchase!</comment>
+             <date>2024-05-23T08:56:21.619Z</date>
+             <reviewerName>Sophia Brown</reviewerName>
+             <reviewerEmail>sophia.brown@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>30 days return policy</returnPolicy>
+         <minimumOrderQuantity>9</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.619Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.619Z</updatedAt>
+             <barcode>1939383392674</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png</images>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png</images>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>10</id>
+         <title>Gucci Bloom Eau de</title>
+         <description>Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.</description>
+         <category>fragrances</category>
+         <price>79.99</price>
+         <discountPercentage>8.9</discountPercentage>
+         <rating>2.69</rating>
+         <stock>93</stock>
+         <tags>fragrances</tags>
+         <tags>perfumes</tags>
+         <brand>Gucci</brand>
+         <sku>FFKZ6HOF</sku>
+         <weight>10</weight>
+         <dimensions>
+             <width>22.28</width>
+             <height>17.81</height>
+             <depth>27.18</depth>
+         </dimensions>
+         <warrantyInformation>No warranty</warrantyInformation>
+         <shippingInformation>Ships in 2 weeks</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Great value for money!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Aria Parker</reviewerName>
+             <reviewerEmail>aria.parker@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Excellent quality!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Natalie Harris</reviewerName>
+             <reviewerEmail>natalie.harris@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Fast shipping!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Ava Harris</reviewerName>
+             <reviewerEmail>ava.harris@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>No return policy</returnPolicy>
+         <minimumOrderQuantity>10</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>8232190382069</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/1.png</images>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/2.png</images>
+         <images>https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/3.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>11</id>
+         <title>Annibale Colombo Bed</title>
+         <description>The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.</description>
+         <category>furniture</category>
+         <price>1899.99</price>
+         <discountPercentage>0.29</discountPercentage>
+         <rating>4.14</rating>
+         <stock>47</stock>
+         <tags>furniture</tags>
+         <tags>beds</tags>
+         <brand>Annibale Colombo</brand>
+         <sku>4KMDTZWF</sku>
+         <weight>3</weight>
+         <dimensions>
+             <width>28.75</width>
+             <height>26.88</height>
+             <depth>24.47</depth>
+         </dimensions>
+         <warrantyInformation>2 year warranty</warrantyInformation>
+         <shippingInformation>Ships overnight</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>4</rating>
+             <comment>Great value for money!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Julian Newton</reviewerName>
+             <reviewerEmail>julian.newton@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Would buy again!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Madison Collins</reviewerName>
+             <reviewerEmail>madison.collins@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Would buy again!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Clara Berry</reviewerName>
+             <reviewerEmail>clara.berry@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>7 days return policy</returnPolicy>
+         <minimumOrderQuantity>1</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>7113807059215</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/1.png</images>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/2.png</images>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/3.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>12</id>
+         <title>Annibale Colombo Sofa</title>
+         <description>The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.</description>
+         <category>furniture</category>
+         <price>2499.99</price>
+         <discountPercentage>18.54</discountPercentage>
+         <rating>3.08</rating>
+         <stock>16</stock>
+         <tags>furniture</tags>
+         <tags>sofas</tags>
+         <brand>Annibale Colombo</brand>
+         <sku>LUU95CQP</sku>
+         <weight>3</weight>
+         <dimensions>
+             <width>20.97</width>
+             <height>19.11</height>
+             <depth>25.81</depth>
+         </dimensions>
+         <warrantyInformation>1 month warranty</warrantyInformation>
+         <shippingInformation>Ships overnight</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very satisfied!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Tyler Davis</reviewerName>
+             <reviewerEmail>tyler.davis@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Excellent quality!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Hannah Robinson</reviewerName>
+             <reviewerEmail>hannah.robinson@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>3</rating>
+             <comment>Waste of money!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Madison Collins</reviewerName>
+             <reviewerEmail>madison.collins@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>7 days return policy</returnPolicy>
+         <minimumOrderQuantity>1</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>0426785817074</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png</images>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png</images>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>13</id>
+         <title>Bedside Table African Cherry</title>
+         <description>The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.</description>
+         <category>furniture</category>
+         <price>299.99</price>
+         <discountPercentage>9.58</discountPercentage>
+         <rating>4.48</rating>
+         <stock>16</stock>
+         <tags>furniture</tags>
+         <tags>bedside tables</tags>
+         <brand>Furniture Co.</brand>
+         <sku>OWPLTZYX</sku>
+         <weight>10</weight>
+         <dimensions>
+             <width>25.43</width>
+             <height>20.2</height>
+             <depth>24.95</depth>
+         </dimensions>
+         <warrantyInformation>6 months warranty</warrantyInformation>
+         <shippingInformation>Ships in 1-2 business days</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very happy with my purchase!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>John Doe</reviewerName>
+             <reviewerEmail>john.doe@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Highly recommended!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Avery Carter</reviewerName>
+             <reviewerEmail>avery.carter@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Very pleased!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Evelyn Sanchez</reviewerName>
+             <reviewerEmail>evelyn.sanchez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>No return policy</returnPolicy>
+         <minimumOrderQuantity>5</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>2913244159666</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png</images>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png</images>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>14</id>
+         <title>Knoll Saarinen Executive Conference Chair</title>
+         <description>The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.</description>
+         <category>furniture</category>
+         <price>499.99</price>
+         <discountPercentage>15.23</discountPercentage>
+         <rating>4.11</rating>
+         <stock>47</stock>
+         <tags>furniture</tags>
+         <tags>office chairs</tags>
+         <brand>Knoll</brand>
+         <sku>RKHVJ4FE</sku>
+         <weight>3</weight>
+         <dimensions>
+             <width>16.59</width>
+             <height>21.46</height>
+             <depth>29.07</depth>
+         </dimensions>
+         <warrantyInformation>Lifetime warranty</warrantyInformation>
+         <shippingInformation>Ships in 3-5 business days</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>4</rating>
+             <comment>Very happy with my purchase!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Leah Gutierrez</reviewerName>
+             <reviewerEmail>leah.gutierrez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Would buy again!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Nolan Gonzalez</reviewerName>
+             <reviewerEmail>nolan.gonzalez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>2</rating>
+             <comment>Waste of money!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Stella Morris</reviewerName>
+             <reviewerEmail>stella.morris@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>30 days return policy</returnPolicy>
+         <minimumOrderQuantity>5</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>0726316339746</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/1.png</images>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/2.png</images>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/3.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>15</id>
+         <title>Wooden Bathroom Sink With Mirror</title>
+         <description>The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.</description>
+         <category>furniture</category>
+         <price>799.99</price>
+         <discountPercentage>11.22</discountPercentage>
+         <rating>3.26</rating>
+         <stock>95</stock>
+         <tags>furniture</tags>
+         <tags>bathroom</tags>
+         <brand>Bath Trends</brand>
+         <sku>7OLTIEVO</sku>
+         <weight>6</weight>
+         <dimensions>
+             <width>7.32</width>
+             <height>22.64</height>
+             <depth>12.37</depth>
+         </dimensions>
+         <warrantyInformation>6 months warranty</warrantyInformation>
+         <shippingInformation>Ships in 3-5 business days</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Highly recommended!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Charlotte Lopez</reviewerName>
+             <reviewerEmail>charlotte.lopez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>1</rating>
+             <comment>Would not recommend!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>William Gonzalez</reviewerName>
+             <reviewerEmail>william.gonzalez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>2</rating>
+             <comment>Not worth the price!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Ava Harrison</reviewerName>
+             <reviewerEmail>ava.harrison@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>7 days return policy</returnPolicy>
+         <minimumOrderQuantity>1</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>7839797529453</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/1.png</images>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/2.png</images>
+         <images>https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/3.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>16</id>
+         <title>Apple</title>
+         <description>Fresh and crisp apples, perfect for snacking or incorporating into various recipes.</description>
+         <category>groceries</category>
+         <price>1.99</price>
+         <discountPercentage>1.97</discountPercentage>
+         <rating>2.96</rating>
+         <stock>9</stock>
+         <tags>fruits</tags>
+         <sku>QTROUV79</sku>
+         <weight>8</weight>
+         <dimensions>
+             <width>8.29</width>
+             <height>5.58</height>
+             <depth>12.41</depth>
+         </dimensions>
+         <warrantyInformation>2 year warranty</warrantyInformation>
+         <shippingInformation>Ships in 2 weeks</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>4</rating>
+             <comment>Great product!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Logan Lee</reviewerName>
+             <reviewerEmail>logan.lee@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Great product!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Elena Long</reviewerName>
+             <reviewerEmail>elena.long@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>1</rating>
+             <comment>Not as described!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Grayson Coleman</reviewerName>
+             <reviewerEmail>grayson.coleman@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>60 days return policy</returnPolicy>
+         <minimumOrderQuantity>44</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>2517819903837</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Apple/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>17</id>
+         <title>Beef Steak</title>
+         <description>High-quality beef steak, great for grilling or cooking to your preferred level of doneness.</description>
+         <category>groceries</category>
+         <price>12.99</price>
+         <discountPercentage>17.99</discountPercentage>
+         <rating>2.83</rating>
+         <stock>96</stock>
+         <tags>meat</tags>
+         <sku>BWWA2MSO</sku>
+         <weight>9</weight>
+         <dimensions>
+             <width>23.35</width>
+             <height>13.48</height>
+             <depth>26.4</depth>
+         </dimensions>
+         <warrantyInformation>1 month warranty</warrantyInformation>
+         <shippingInformation>Ships overnight</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>4</rating>
+             <comment>Very pleased!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Ethan Martinez</reviewerName>
+             <reviewerEmail>ethan.martinez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>3</rating>
+             <comment>Disappointing product!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Owen Fisher</reviewerName>
+             <reviewerEmail>owen.fisher@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Very happy with my purchase!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Scarlett Wright</reviewerName>
+             <reviewerEmail>scarlett.wright@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>90 days return policy</returnPolicy>
+         <minimumOrderQuantity>21</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>8335515097879</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>18</id>
+         <title>Cat Food</title>
+         <description>Nutritious cat food formulated to meet the dietary needs of your feline friend.</description>
+         <category>groceries</category>
+         <price>8.99</price>
+         <discountPercentage>9.57</discountPercentage>
+         <rating>2.88</rating>
+         <stock>13</stock>
+         <tags>pet supplies</tags>
+         <tags>cat food</tags>
+         <sku>C3F8QN6O</sku>
+         <weight>9</weight>
+         <dimensions>
+             <width>15.4</width>
+             <height>13.97</height>
+             <depth>25.13</depth>
+         </dimensions>
+         <warrantyInformation>3 months warranty</warrantyInformation>
+         <shippingInformation>Ships in 1-2 business days</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very pleased!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Mateo Bennett</reviewerName>
+             <reviewerEmail>mateo.bennett@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very pleased!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Aurora Barnes</reviewerName>
+             <reviewerEmail>aurora.barnes@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Great value for money!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Ellie Stewart</reviewerName>
+             <reviewerEmail>ellie.stewart@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>7 days return policy</returnPolicy>
+         <minimumOrderQuantity>48</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>5503491330693</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>19</id>
+         <title>Chicken Meat</title>
+         <description>Fresh and tender chicken meat, suitable for various culinary preparations.</description>
+         <category>groceries</category>
+         <price>9.99</price>
+         <discountPercentage>10.46</discountPercentage>
+         <rating>4.61</rating>
+         <stock>69</stock>
+         <tags>meat</tags>
+         <sku>G5YEHW7B</sku>
+         <weight>7</weight>
+         <dimensions>
+             <width>15.96</width>
+             <height>29.24</height>
+             <depth>26.25</depth>
+         </dimensions>
+         <warrantyInformation>Lifetime warranty</warrantyInformation>
+         <shippingInformation>Ships in 1 month</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very satisfied!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Sophia Jones</reviewerName>
+             <reviewerEmail>sophia.jones@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Great value for money!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Maya Reed</reviewerName>
+             <reviewerEmail>maya.reed@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Highly recommended!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Harper Turner</reviewerName>
+             <reviewerEmail>harper.turner@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>7 days return policy</returnPolicy>
+         <minimumOrderQuantity>46</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>0966223559510</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/1.png</images>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/2.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>20</id>
+         <title>Cooking Oil</title>
+         <description>Versatile cooking oil suitable for frying, sautéing, and various culinary applications.</description>
+         <category>groceries</category>
+         <price>4.99</price>
+         <discountPercentage>18.89</discountPercentage>
+         <rating>4.01</rating>
+         <stock>22</stock>
+         <tags>cooking essentials</tags>
+         <sku>Q6ZP1UY8</sku>
+         <weight>8</weight>
+         <dimensions>
+             <width>8.18</width>
+             <height>27.45</height>
+             <depth>27.88</depth>
+         </dimensions>
+         <warrantyInformation>Lifetime warranty</warrantyInformation>
+         <shippingInformation>Ships in 1 month</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Would buy again!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Mason Parker</reviewerName>
+             <reviewerEmail>mason.parker@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>3</rating>
+             <comment>Poor quality!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Jonathan Pierce</reviewerName>
+             <reviewerEmail>jonathan.pierce@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Would buy again!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Alexander Hernandez</reviewerName>
+             <reviewerEmail>alexander.hernandez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>60 days return policy</returnPolicy>
+         <minimumOrderQuantity>2</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>6707669443381</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>21</id>
+         <title>Cucumber</title>
+         <description>Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.</description>
+         <category>groceries</category>
+         <price>1.49</price>
+         <discountPercentage>11.44</discountPercentage>
+         <rating>4.71</rating>
+         <stock>22</stock>
+         <tags>vegetables</tags>
+         <sku>6KGF2K6Z</sku>
+         <weight>9</weight>
+         <dimensions>
+             <width>11.04</width>
+             <height>20.5</height>
+             <depth>8.18</depth>
+         </dimensions>
+         <warrantyInformation>5 year warranty</warrantyInformation>
+         <shippingInformation>Ships overnight</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>4</rating>
+             <comment>Very satisfied!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Elijah Hill</reviewerName>
+             <reviewerEmail>elijah.hill@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Fast shipping!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Liam Garcia</reviewerName>
+             <reviewerEmail>liam.garcia@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Excellent quality!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Ella Cook</reviewerName>
+             <reviewerEmail>ella.cook@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>30 days return policy</returnPolicy>
+         <minimumOrderQuantity>7</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>2597004869708</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Cucumber/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Cucumber/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>22</id>
+         <title>Dog Food</title>
+         <description>Specially formulated dog food designed to provide essential nutrients for your canine companion.</description>
+         <category>groceries</category>
+         <price>10.99</price>
+         <discountPercentage>18.15</discountPercentage>
+         <rating>2.74</rating>
+         <stock>40</stock>
+         <tags>pet supplies</tags>
+         <tags>dog food</tags>
+         <sku>A6QRCH37</sku>
+         <weight>2</weight>
+         <dimensions>
+             <width>29.39</width>
+             <height>29.77</height>
+             <depth>20.54</depth>
+         </dimensions>
+         <warrantyInformation>1 year warranty</warrantyInformation>
+         <shippingInformation>Ships in 1 month</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Highly impressed!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Leo Rivera</reviewerName>
+             <reviewerEmail>leo.rivera@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Highly recommended!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Alexander Jones</reviewerName>
+             <reviewerEmail>alexander.jones@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Would buy again!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Addison Wright</reviewerName>
+             <reviewerEmail>addison.wright@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>90 days return policy</returnPolicy>
+         <minimumOrderQuantity>29</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>7957222289508</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>23</id>
+         <title>Eggs</title>
+         <description>Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.</description>
+         <category>groceries</category>
+         <price>2.99</price>
+         <discountPercentage>5.8</discountPercentage>
+         <rating>4.46</rating>
+         <stock>10</stock>
+         <tags>dairy</tags>
+         <sku>YA617RI7</sku>
+         <weight>4</weight>
+         <dimensions>
+             <width>12.3</width>
+             <height>10.99</height>
+             <depth>15.53</depth>
+         </dimensions>
+         <warrantyInformation>3 year warranty</warrantyInformation>
+         <shippingInformation>Ships overnight</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>2</rating>
+             <comment>Very unhappy with my purchase!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Mateo Perez</reviewerName>
+             <reviewerEmail>mateo.perez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Very happy with my purchase!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Cameron Perez</reviewerName>
+             <reviewerEmail>cameron.perez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very happy with my purchase!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Aurora Barnes</reviewerName>
+             <reviewerEmail>aurora.barnes@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>30 days return policy</returnPolicy>
+         <minimumOrderQuantity>43</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>7095702028776</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Eggs/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Eggs/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>24</id>
+         <title>Fish Steak</title>
+         <description>Quality fish steak, suitable for grilling, baking, or pan-searing.</description>
+         <category>groceries</category>
+         <price>14.99</price>
+         <discountPercentage>7</discountPercentage>
+         <rating>4.83</rating>
+         <stock>99</stock>
+         <tags>seafood</tags>
+         <sku>XNIH1MTA</sku>
+         <weight>8</weight>
+         <dimensions>
+             <width>20.14</width>
+             <height>8.4</height>
+             <depth>10.01</depth>
+         </dimensions>
+         <warrantyInformation>1 year warranty</warrantyInformation>
+         <shippingInformation>Ships in 1 month</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Great value for money!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Michael Johnson</reviewerName>
+             <reviewerEmail>michael.johnson@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Would buy again!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Julian Newton</reviewerName>
+             <reviewerEmail>julian.newton@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Excellent quality!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Lila Hudson</reviewerName>
+             <reviewerEmail>lila.hudson@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>30 days return policy</returnPolicy>
+         <minimumOrderQuantity>49</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>4250692197342</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>25</id>
+         <title>Green Bell Pepper</title>
+         <description>Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.</description>
+         <category>groceries</category>
+         <price>1.29</price>
+         <discountPercentage>15.5</discountPercentage>
+         <rating>4.28</rating>
+         <stock>89</stock>
+         <tags>vegetables</tags>
+         <sku>HU7S7VQ0</sku>
+         <weight>7</weight>
+         <dimensions>
+             <width>7.32</width>
+             <height>14.31</height>
+             <depth>21.38</depth>
+         </dimensions>
+         <warrantyInformation>5 year warranty</warrantyInformation>
+         <shippingInformation>Ships overnight</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>4</rating>
+             <comment>Excellent quality!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Maya Reed</reviewerName>
+             <reviewerEmail>maya.reed@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Would buy again!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Madison Collins</reviewerName>
+             <reviewerEmail>madison.collins@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Would buy again!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Ethan Thompson</reviewerName>
+             <reviewerEmail>ethan.thompson@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>30 days return policy</returnPolicy>
+         <minimumOrderQuantity>1</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>7583442707568</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>26</id>
+         <title>Green Chili Pepper</title>
+         <description>Spicy green chili pepper, ideal for adding heat to your favorite recipes.</description>
+         <category>groceries</category>
+         <price>0.99</price>
+         <discountPercentage>18.51</discountPercentage>
+         <rating>4.43</rating>
+         <stock>8</stock>
+         <tags>vegetables</tags>
+         <sku>Y4RM3JCB</sku>
+         <weight>2</weight>
+         <dimensions>
+             <width>18.67</width>
+             <height>21.17</height>
+             <depth>25.26</depth>
+         </dimensions>
+         <warrantyInformation>No warranty</warrantyInformation>
+         <shippingInformation>Ships in 1-2 business days</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>2</rating>
+             <comment>Disappointing product!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Mateo Bennett</reviewerName>
+             <reviewerEmail>mateo.bennett@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very pleased!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Natalie Price</reviewerName>
+             <reviewerEmail>natalie.price@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Very satisfied!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Avery Barnes</reviewerName>
+             <reviewerEmail>avery.barnes@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>30 days return policy</returnPolicy>
+         <minimumOrderQuantity>43</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>8400326844874</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>27</id>
+         <title>Honey Jar</title>
+         <description>Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.</description>
+         <category>groceries</category>
+         <price>6.99</price>
+         <discountPercentage>1.91</discountPercentage>
+         <rating>3.5</rating>
+         <stock>25</stock>
+         <tags>condiments</tags>
+         <sku>BTBNIIOU</sku>
+         <weight>9</weight>
+         <dimensions>
+             <width>26.53</width>
+             <height>27.11</height>
+             <depth>6.63</depth>
+         </dimensions>
+         <warrantyInformation>2 year warranty</warrantyInformation>
+         <shippingInformation>Ships overnight</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>4</rating>
+             <comment>Fast shipping!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Nicholas Bailey</reviewerName>
+             <reviewerEmail>nicholas.bailey@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Awesome product!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Gabriel Hayes</reviewerName>
+             <reviewerEmail>gabriel.hayes@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Highly impressed!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>James Garcia</reviewerName>
+             <reviewerEmail>james.garcia@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>90 days return policy</returnPolicy>
+         <minimumOrderQuantity>1</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>0668665656044</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>28</id>
+         <title>Ice Cream</title>
+         <description>Creamy and delicious ice cream, available in various flavors for a delightful treat.</description>
+         <category>groceries</category>
+         <price>5.49</price>
+         <discountPercentage>7.58</discountPercentage>
+         <rating>3.77</rating>
+         <stock>76</stock>
+         <tags>desserts</tags>
+         <sku>VEZMU1EQ</sku>
+         <weight>5</weight>
+         <dimensions>
+             <width>17.66</width>
+             <height>24.49</height>
+             <depth>25.98</depth>
+         </dimensions>
+         <warrantyInformation>2 year warranty</warrantyInformation>
+         <shippingInformation>Ships in 2 weeks</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Great product!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Elena Baker</reviewerName>
+             <reviewerEmail>elena.baker@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Highly impressed!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Madeline Simpson</reviewerName>
+             <reviewerEmail>madeline.simpson@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very happy with my purchase!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Caleb Nelson</reviewerName>
+             <reviewerEmail>caleb.nelson@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>No return policy</returnPolicy>
+         <minimumOrderQuantity>19</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>9603960319256</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/1.png</images>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/2.png</images>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/3.png</images>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/4.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>29</id>
+         <title>Juice</title>
+         <description>Refreshing fruit juice, packed with vitamins and great for staying hydrated.</description>
+         <category>groceries</category>
+         <price>3.99</price>
+         <discountPercentage>5.45</discountPercentage>
+         <rating>3.41</rating>
+         <stock>99</stock>
+         <tags>beverages</tags>
+         <sku>M2K19S06</sku>
+         <weight>2</weight>
+         <dimensions>
+             <width>8.97</width>
+             <height>12.26</height>
+             <depth>15.05</depth>
+         </dimensions>
+         <warrantyInformation>1 week warranty</warrantyInformation>
+         <shippingInformation>Ships in 1-2 business days</shippingInformation>
+         <availabilityStatus>In Stock</availabilityStatus>
+         <reviews>
+             <rating>4</rating>
+             <comment>Very satisfied!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Leo Rivera</reviewerName>
+             <reviewerEmail>leo.rivera@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>2</rating>
+             <comment>Not worth the price!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Ethan Martinez</reviewerName>
+             <reviewerEmail>ethan.martinez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>4</rating>
+             <comment>Excellent quality!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Max Parker</reviewerName>
+             <reviewerEmail>max.parker@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>90 days return policy</returnPolicy>
+         <minimumOrderQuantity>26</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>8546824122355</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Juice/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png</thumbnail>
+     </products>
+     <products>
+         <id>30</id>
+         <title>Kiwi</title>
+         <description>Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.</description>
+         <category>groceries</category>
+         <price>2.49</price>
+         <discountPercentage>10.32</discountPercentage>
+         <rating>4.37</rating>
+         <stock>1</stock>
+         <tags>fruits</tags>
+         <sku>0X3NORB9</sku>
+         <weight>8</weight>
+         <dimensions>
+             <width>27.3</width>
+             <height>7.48</height>
+             <depth>15.08</depth>
+         </dimensions>
+         <warrantyInformation>6 months warranty</warrantyInformation>
+         <shippingInformation>Ships in 3-5 business days</shippingInformation>
+         <availabilityStatus>Low Stock</availabilityStatus>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very pleased!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Nora Russell</reviewerName>
+             <reviewerEmail>nora.russell@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Very pleased!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Dylan Wells</reviewerName>
+             <reviewerEmail>dylan.wells@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <reviews>
+             <rating>5</rating>
+             <comment>Great product!</comment>
+             <date>2024-05-23T08:56:21.620Z</date>
+             <reviewerName>Noah Hernandez</reviewerName>
+             <reviewerEmail>noah.hernandez@x.dummyjson.com</reviewerEmail>
+         </reviews>
+         <returnPolicy>7 days return policy</returnPolicy>
+         <minimumOrderQuantity>8</minimumOrderQuantity>
+         <meta>
+             <createdAt>2024-05-23T08:56:21.620Z</createdAt>
+             <updatedAt>2024-05-23T08:56:21.620Z</updatedAt>
+             <barcode>3325493172934</barcode>
+             <qrCode>https://cdn.dummyjson.com/public/qr-code.png</qrCode>
+         </meta>
+         <images>https://cdn.dummyjson.com/products/images/groceries/Kiwi/1.png</images>
+         <thumbnail>https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png</thumbnail>
+     </products>
+     <total>194</total>
+     <skip>0</skip>
+     <limit>30</limit>
+ </root>

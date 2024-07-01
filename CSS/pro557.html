@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .container {
+            display: grid;
+            grid-template-areas: 'header header header header header'
+            'sidebar1 menu menu menu sidebar2'
+            'sidebar1 main main main sidebar2'
+            'footer footer footer footer footer';
+            background-color: #2196F3;
+            padding: 10px;
+            gap: 15px;
+        }
+
+        .item {
+            background-color: rgba(255, 255, 255, 0.8);
+            border: 1px solid rgba(0, 0, 0, 0.8);
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+
+        .item1{
+            grid-area: header;
+        }
+
+        .item2{
+            grid-area: menu;
+        }
+
+        .item3{
+            grid-area: sidebar1;
+        }
+
+        .item4{
+            grid-area: sidebar2;
+        }
+
+        .item5{
+            grid-area: main;
+        }
+
+        .item6{
+            grid-area: footer;
+        }
+
+        @media screen and (max-width:800px){
+            .container{
+                grid-template-areas: 'header '
+            'menu'
+            'sidebar1'
+            'main'
+            'sidebar2'
+            'footer';
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="item item1">Header</div>
+        <div class="item item2">Menu</div>
+        <div class="item item3">SideBar1</div>
+        <div class="item item4">SideBar2</div>
+        <div class="item item5">main</div>
+        <div class="item item6">Footer</div>
+    </div>
+</body>
+
+</html>

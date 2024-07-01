@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        *{
+            box-sizing: border-box;
+        }
+
+        [class*="col-"]{
+            width: 100%;
+            float: left;
+            padding: 10px;
+            border: 1px solid black;
+        }
+
+        .row::after{
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+        html {
+            font-family: "Lucida Sans", sans-serif;
+        }
+
+        .header {
+            background-color: #9933cc;
+            color: #ffffff;
+            padding: 15px;
+        }
+
+        .menu ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .menu li {
+            padding: 8px;
+            margin-bottom: 7px;
+            background-color: #33b5e5;
+            color: #ffffff;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); 
+        }
+
+        .menu li:hover {
+            background-color: #0099cc;
+        }
+
+        @media screen and (min-width:768px){
+            .col-1 { width: 8.33%; }
+            .col-2 { width: 16.66%; }
+            .col-3 { width: 25%; }
+            .col-4 { width: 33.33%; }
+            .col-5 { width: 41.66%; }
+            .col-6 { width: 50%; }
+            .col-7 { width: 58.33%; }
+            .col-8 { width: 66.66%; }
+            .col-9 { width: 75%; }
+            .col-10 { width: 83.33%; }
+            .col-11 { width: 91.66%; }
+            .col-12 { width: 100%; }
+        }
+
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>This is Header of Webpage</h1>
+    </div>
+    <div class="row">
+        <div class="col-3 menu">
+            <ul>
+                <li>Link 1</li>
+                <li>Link 2</li>
+                <li>Link 3</li>
+                <li>Link 4</li>
+                <li>Link 5</li>
+            </ul>
+        </div>
+        <div class="col-6">
+            <h1>This is Main Section of Webpage</h1>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat quam ea mollitia! Minima velit sint ea quia sunt dolorum dolore temporibus natus sequi asperiores quae fugit labore, qui blanditiis quibusdam?
+        </div>
+
+        <div class="col-3">
+            <h2>Sidebar</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, cupiditate. Ea atque, dolores voluptatibus illo accusantium magni soluta, repellat odit natus animi unde possimus. Modi laudantium expedita libero aliquid saepe.</p>
+        </div>
+    </div>
+</body>
+</html>
