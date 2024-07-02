@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script src="js/bootstrap.bundle.min.js"></script>
+</head>
+<body onresize="getWidth()">
+    <div class="container border border-3 rounded p-2">
+        <h1 id="screenWidth"></h1>
+        <h1 class="bg-primary text-center text-white p-4">This is Heading</h1>
+        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, omnis! Facilis in dolorum, cumque qui sit ullam omnis atque unde! Incidunt debitis cupiditate similique, quas ut neque nostrum facilis cum.</p>
+        <hr>
+        <p>Screen Size Less Than 576PX (Container Width : 100%) : XS</p>
+        <p>Screen Size Greater Than 576PX (Container Width : 540px) : SM</p>
+        <p>Screen Size Greater Than 768PX (Container Width : 720px) : MD</p>
+        <p>Screen Size Greater Than 992PX (Container Width : 960px) : LG</p>
+        <p>Screen Size Greater Than 1200PX (Container Width : 1140px) : XL</p>
+        <p>Screen Size Greater Than 1400PX (Container Width : 1320px) : XXL</p>
+    </div>
+</body>
+</html>
+
+<script>
+    let sw = document.getElementById("screenWidth");
+    function getWidth(){
+        sw.innerHTML = window.innerWidth;
+    }
+</script>
