@@ -1,0 +1,214 @@
+*{
+    box-sizing: border-box;
+}
+
+/* grid class */
+[class*="col-"]{
+    width: 100%;
+    float: left;
+}
+
+/* clearfix */
+.row::after{
+    clear: both;
+    content: "";
+    display: table;
+}
+
+/* columns for 768px or wider screen */
+@media screen and (min-width:768px){
+    .col-m-1{ width:  8.33%; }
+    .col-m-2{ width:  16.66; }
+    .col-m-3{ width:  25%; }
+    .col-m-4{ width:  33.33%; }
+    .col-m-5{ width:  41.66%; }
+    .col-m-6{ width:  50%; }
+    .col-m-7{ width:  58.33%; }
+    .col-m-8{ width:  66.66%; }
+    .col-m-9{ width:  75%; }
+    .col-m-10{ width:  83.33%; }
+    .col-m-11{ width:  91.66%; }
+    .col-m-12{ width:  100%; }
+}
+
+/* columns for 992px or wider screen */
+@media screen and (min-width:992px){
+    .col-l-1{ width:  8.33%; }
+    .col-l-2{ width:  16.66; }
+    .col-l-3{ width:  25%; }
+    .col-l-4{ width:  33.33%; }
+    .col-l-5{ width:  41.66%; }
+    .col-l-6{ width:  50%; }
+    .col-l-7{ width:  58.33%; }
+    .col-l-8{ width:  66.66%; }
+    .col-l-9{ width:  75%; }
+    .col-l-10{ width:  83.33%; }
+    .col-l-11{ width:  91.66%; }
+    .col-l-12{ width:  100%; }
+}
+
+/* Header */
+#header{
+    background-color: bisque;
+    min-height: 300px;
+}
+
+#header h1{
+    /* transform: translate(50%, 50%); */
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 64px;
+}
+
+#header p{
+    text-align: center;
+    padding: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#nav{
+    position: sticky;
+    top: 0px;
+    z-index: 100;
+}
+
+#nav ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    width: 100%;
+    overflow: auto;
+}
+
+#nav ul li{
+    float: left;
+}
+
+#nav ul li a{
+    display: inline-block;
+    padding: 8px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+#nav ul li a:hover{
+    background-color: bisque;
+    color: black;
+}
+
+/* Main */
+#main{
+    padding: 40px;
+}
+
+#about{
+    margin: 25px 0px;
+}
+
+#about h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    color: white;
+    text-shadow: 0px 0px 5px black;
+}
+
+#about img{
+    width: 100%;
+    padding: 15px;
+    border-radius: 50% 50px;
+    transition: all 0.5s;
+}
+
+#about img:hover{
+    border-radius: 50px 50%;
+}
+
+#about p{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 15px 0px;
+    line-height: 150%;
+}
+
+/* Services */
+#services{
+    margin: 25px 0px;
+}
+
+#services h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    color: white;
+    text-shadow: 0px 0px 5px black;
+}
+
+#services .box{
+    /* border: 1px solid gray; */
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+}
+
+#services .box i{
+    border-radius: 50%;
+    font-size: 80px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 25px;
+}
+
+#services .box p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#services .box .title{
+    font-size: 24px;
+    font-weight: 900;
+}
+
+#services .box i:hover{
+    color: white;
+    background-color: black;
+}
+
+#services .box:hover{
+    box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.2);
+}
+
+/* Call to Action */
+#cta{
+    margin: 50px 0px;
+    background: url(images/mountainskies.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+    position: relative;
+    padding: 50px;
+}
+
+#cta .overlay{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(50, 50, 0, 0.3);
+    background-attachment: fixed;
+    /* mix-blend-mode: color; */
+}
+
+#cta h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    color: white;
+    text-shadow: 0px 0px 5px black;
+}
