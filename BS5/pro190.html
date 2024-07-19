@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script src="js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <form class="was-validated">
+            <div class="my-3 form-floating">
+                <input type="email" class="form-control" placeholder="Enter Email Address" name="email" id="email" required>
+                <label for="email" class="form-label">Enter Email Address</label>
+                <span class="valid-feedback">Valid Email Address</span>
+                <span class="invalid-feedback">InValid Email Address</span>
+            </div>
+
+            <div class="my-3 form-floating">
+                <input type="password" class="form-control" placeholder="Enter Email Password" name="password" id="password" required>
+                <label for="password" class="form-label">Enter Email Password</label>
+                <span class="valid-feedback">Valid Email Password</span>
+                <span class="invalid-feedback">InValid Email Password</span>
+            </div>
+            <div class="my-3 form-floating">
+                <input type="text" class="form-control" placeholder="Enter Reference Code" name="refcode" id="refcode" required pattern="[A-Z]{3}">
+                <label for="refcode" class="form-label">Enter Reference Code</label>
+                <span class="valid-feedback">Valid Reference Code</span>
+                <span class="invalid-feedback">InValid Reference Code</span>
+            </div>
+            <div class="my-3 form-floating">
+                <input type="number" class="form-control" placeholder="Enter Quantity" name="quantity" id="quantity" required min="1" max="10">
+                <label for="quantity" class="form-label">Enter Quantity</label>
+                <span class="valid-feedback">Valid Quantity</span>
+                <span class="invalid-feedback">InValid Quantity</span>
+            </div>
+            <div class="my-3">
+                <input type="submit" value="Send Data" class="btn btn-primary">
+                <input type="reset" value="Reset" class="btn btn-danger">
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
