@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script src="js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body onresize="getWidth()">
+    <div class="container-fluid">
+        <div class="row g-0">
+            <div class="col-md-6 p-1 bg-primary text-white">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet temporibus vitae adipisci voluptas eos natus facilis iure accusantium illo repellendus a ad minima ipsam optio quae, nisi ullam iste eligendi!</p>
+            </div>
+            <div class="col-md-6 p-1 bg-danger text-light">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet temporibus vitae adipisci voluptas eos natus facilis iure accusantium illo repellendus a ad minima ipsam optio quae, nisi ullam iste eligendi!</p>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    function getWidth(){
+        document.title = window.innerWidth;
+    }
+</script>
+</html>

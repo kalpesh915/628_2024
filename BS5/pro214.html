@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script src="js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body onresize="getWidth()">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6 p-1 bg-primary text-white">
+                Column 1.1
+                <div class="row">
+                    <div class="col-md-6 bg-warning">
+                        Column 1.1.1
+                    </div>
+                    <div class="col-md-6 bg-info">
+                        Column 1.1.2
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 p-1 bg-danger text-light">
+                Column 1.2
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    function getWidth(){
+        document.title = window.innerWidth;
+    }
+</script>
+</html>
