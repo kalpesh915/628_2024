@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css"
+        integrity="sha512-1cK78a1o+ht2JcaW6g8OXYwqpev9+6GqOkz9xmBN9iUUhIndKtxwILGWYOSibOKjLsEdjyjZvYDq/cZwNeak0w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="template.css" rel="stylesheet">
+</head>
+
+<body data-bs-spy="scroll">
+    <!-- Header -->
+    <div class="container-fluid p-5 bg-primary text-white text-center">
+        <h1>Welcome to world of Responsive web Design with bootstrap 5</h1>
+        <p>Resize webpage to get effect of Responsive web Design</p>
+    </div>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top">
+        <a href="#home" class="navbar-brand">Project 1</a>
+        <button type="button" class="navbar-toggler" data-bs-target="#mymenu" data-bs-toggle="collapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="mymenu">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a href="#home" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="#services" class="nav-link">Services</a></li>
+                <li class="nav-item"><a href="#team" class="nav-link">Team</a></li>
+                <li class="nav-item"><a href="#products" class="nav-link">Products</a></li>
+                <li class="nav-item"><a href="#faq" class="nav-link">Faq</a></li>
+                <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
+                <li class="nav-item"><a href="#login" class="nav-link" data-bs-toggle="offcanvas">Login</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Slider -->
+    <!-- Carousel -->
+    <div id="home" class="carousel slide" data-bs-ride="carousel">
+
+        <!-- Indicators/dots -->
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#home" data-bs-slide-to="0" class="active"></button>
+            <button type="button" data-bs-target="#home" data-bs-slide-to="1"></button>
+            <button type="button" data-bs-target="#home" data-bs-slide-to="2"></button>
+        </div>
+
+        <!-- The slideshow/carousel -->
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="images/ny.jpg" alt="New York" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="images/la.jpg" alt="Los Angeles" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="images/chicago.jpg" alt="Chicago" class="d-block w-100">
+            </div>
+
+        </div>
+
+        <!-- Left and right controls/icons -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#home" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#home" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </button>
+    </div>
+
+    <!-- Main Content of Page -->
+    <main>
+        <div id="about" class="container">
+            <div class="header">
+                <h1>About us</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur deserunt ducimus voluptas dicta
+                    suscipit mollitia natus saepe fugit eaque earum quae, neque fuga expedita nihil fugiat impedit
+                    dolorum necessitatibus delectus?</p>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-6 p-5 order-lg-first">
+                    <img src="images/aboutus.svg" class="w-100">
+                </div>
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-center">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus quisquam dolorem doloremque minima
+                        sint ut. Amet ex voluptatum voluptates expedita dolorum molestiae libero enim sit atque, earum
+                        cumque, illo eos.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus quisquam dolorem doloremque minima
+                        sint ut. Amet ex voluptatum voluptates expedita dolorum molestiae libero enim sit atque, earum
+                        cumque, illo eos.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus quisquam dolorem doloremque minima
+                        sint ut. Amet ex voluptatum voluptates expedita dolorum molestiae libero enim sit atque, earum
+                        cumque, illo eos.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Services -->
+        <div class="container-fluid" id="services">
+            <div class="header">
+                <h1>Services</h1>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem ea quam tenetur, cumque dolore aut
+                    atque odit veritatis nostrum quaerat nam debitis porro exercitationem et saepe adipisci quos commodi
+                    magnam.</p>
+            </div>
+
+            <div class="row p-5">
+                <div class="col-lg-4 col-md-6 servicebox">
+                    <i class="fa fa-user"></i>
+                    <h3>Users</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti maiores aspernatur natus ullam
+                        assumenda asperiores, cupiditate eos voluptatum provident blanditiis nostrum repudiandae
+                        debitis, fugit ratione quos illum dolores. Dolore, officia!</p>
+                </div>
+                <div class="col-lg-4 col-md-6 servicebox">
+                    <i class="fa fa-cog"></i>
+                    <h3>Settings</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti maiores aspernatur natus ullam
+                        assumenda asperiores, cupiditate eos voluptatum provident blanditiis nostrum repudiandae
+                        debitis, fugit ratione quos illum dolores. Dolore, officia!</p>
+                </div>
+                <div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0 servicebox">
+                    <i class="fa fa-car"></i>
+                    <h3>Car</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti maiores aspernatur natus ullam
+                        assumenda asperiores, cupiditate eos voluptatum provident blanditiis nostrum repudiandae
+                        debitis, fugit ratione quos illum dolores. Dolore, officia!</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid p-5" id="team">
+            <div class="header">
+                <h1>Team</h1>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad facere nihil perspiciatis id fugiat
+                    veniam iste dolorum asperiores error, aut minus, officiis praesentium ratione necessitatibus quam
+                    assumenda itaque consectetur tenetur!</p>
+            </div>
+
+            <div class="row gap-5 d-flex p-5">
+                <div class="card col-lg-4 flex-fill teambox">
+                    <div class="card-header">
+                        <h3 class="card-title">Vrajesh Mer</h3>
+                        <img src="images/img_avatar1.png">
+                        <div class="card-body">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptas nobis, quam
+                                recusandae, ullam voluptatibus mollitia repellendus adipisci eius totam et labore
+                                quisquam pariatur velit quibusdam inventore, impedit quia dolore?</p>
+                        </div>
+                        <div class="card-footer text-center">
+                            <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                            <a href="#"><i class="fa-brands fa-github"></i></a>
+                            <a href="#"><i class="fa-brands fa-snapchat"></i></a>
+                            <a href="#"><i class="fa-brands fa-telegram"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card col-lg-4 flex-fill teambox">
+                    <div class="card-header">
+                        <h3 class="card-title">Butani Krishn</h3>
+                        <img src="images/img_avatar1.png">
+                        <div class="card-body">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptas nobis, quam
+                                recusandae, ullam voluptatibus mollitia repellendus adipisci eius totam et labore
+                                quisquam pariatur velit quibusdam inventore, impedit quia dolore?</p>
+                        </div>
+                        <div class="card-footer text-center">
+                            <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                            <a href="#"><i class="fa-brands fa-github"></i></a>
+                            <a href="#"><i class="fa-brands fa-snapchat"></i></a>
+                            <a href="#"><i class="fa-brands fa-telegram"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card col-lg-4 flex-fill teambox">
+                    <div class="card-header">
+                        <h3 class="card-title">Dhrumil Nathwani</h3>
+                        <img src="images/img_avatar1.png">
+                        <div class="card-body">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptas nobis, quam
+                                recusandae, ullam voluptatibus mollitia repellendus adipisci eius totam et labore
+                                quisquam pariatur velit quibusdam inventore, impedit quia dolore?</p>
+                        </div>
+                        <div class="card-footer text-center">
+                            <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                            <a href="#"><i class="fa-brands fa-github"></i></a>
+                            <a href="#"><i class="fa-brands fa-snapchat"></i></a>
+                            <a href="#"><i class="fa-brands fa-telegram"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card col-lg-4 flex-fill teambox">
+                    <div class="card-header">
+                        <h3 class="card-title">Bhatti Viraj</h3>
+                        <img src="images/img_avatar1.png">
+                        <div class="card-body">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat voluptas nobis, quam
+                                recusandae, ullam voluptatibus mollitia repellendus adipisci eius totam et labore
+                                quisquam pariatur velit quibusdam inventore, impedit quia dolore?</p>
+                        </div>
+                        <div class="card-footer text-center">
+                            <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                            <a href="#"><i class="fa-brands fa-github"></i></a>
+                            <a href="#"><i class="fa-brands fa-snapchat"></i></a>
+                            <a href="#"><i class="fa-brands fa-telegram"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- FAQ -->
+        <div class="container" id="faq">
+            <div class="header">
+                <h1>FAQ</h1>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate eveniet non nisi esse minus
+                    voluptate eius eaque suscipit vitae provident? Tempora voluptas quasi totam autem molestias
+                    consequuntur porro itaque obcaecati!</p>
+            </div>
+
+            <div id="accordion">
+
+                <div class="card">
+                    <div class="card-header">
+                        <a class="btn" data-bs-toggle="collapse" href="#collapseOne">
+                            Collapsible Group Item #1
+                        </a>
+                    </div>
+                    <div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
+                        <div class="card-body">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero cupiditate, quidem earum,
+                            accusamus numquam error molestias velit quas consectetur esse iste eius, necessitatibus
+                            reiciendis vel nisi veniam saepe odio rem!
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseTwo">
+                            Collapsible Group Item #2
+                        </a>
+                    </div>
+                    <div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
+                        <div class="card-body">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium mollitia delectus ipsa
+                            ullam nulla sit numquam at. Iusto asperiores, accusantium, harum delectus, placeat nobis eos
+                            assumenda veniam blanditiis dolorum minima?
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseThree">
+                            Collapsible Group Item #3
+                        </a>
+                    </div>
+                    <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+                        <div class="card-body">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus provident magni
+                            doloribus incidunt. Explicabo eveniet fuga id voluptates, cumque repellat nisi cupiditate
+                            dolor amet suscipit vel rerum ipsa incidunt reiciendis.
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Login Offcanvas -->
+        <div class="offcanvas offcanvas-start" id="login">
+            <div class="offcanvas-header">
+                <h1 class="offcanvas-title">Login Form</h1>
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"></button>
+            </div>
+            <div class="offcanvas-body">
+                <form class="was-validated" autocomplete="off">
+                    <div class="my-3 form-floating">
+                        <input type="email" name="email" id="email" required class="form-control" placeholder="Enter Email Address">
+                        <label class="form-label" for="email">Enter Email Address</label>
+                    </div>
+                    <div class="my-3 form-floating">
+                        <input type="password" name="password" id="password" required class="form-control" placeholder="Enter Password Address">
+                        <label class="form-label" for="password">Enter Password Address</label>
+                    </div>
+                    <div class="my-3">
+                        <input type="submit" class="btn btn-primary" value="Login"> 
+                        <input type="reset" value="Reset" class="btn btn-danger">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
+
+<!-- External Scripts -->
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"
+    integrity="sha512-A7AYk1fGKX6S2SsHywmPkrnzTZHrgiVT7GcQkLGDe2ev0aWb8zejytzS8wjo7PGEXKqJOrjQ4oORtnimIRZBtw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>

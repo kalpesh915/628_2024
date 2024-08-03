@@ -1,0 +1,69 @@
+/*  */
+
+/* Header */
+.header{
+    padding: 50px;
+    text-align: center;
+}
+
+.header h1{
+    font-family: cursive;
+    text-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+}
+
+.header p{
+    padding: 20px;
+    line-height: 120%;
+}
+
+/* Services */
+.servicebox{
+    text-align: center;
+    padding: 20px;
+}
+
+.servicebox i{
+    font-size: 60px;
+    padding: 30px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    color: blue;
+    background-color: gainsboro;
+}
+
+.servicebox:hover i{
+    outline: 2px solid olive;
+}
+
+.servicebox:hover{
+    box-shadow: 0px 0px 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+.servicebox h3{
+    margin-top: 20px;
+}
+
+/* Team */
+.teambox{
+
+}
+
+.teambox:hover img{
+    transform: scale(0.9);
+}
+
+.teambox img{
+    width: 100%;
+}
+
+.teambox h3{
+    text-align: center;
+}
+
+.teambox i{
+    padding: 10px;
+}
+
+.teambox i:hover{
+    color: black;
+}
