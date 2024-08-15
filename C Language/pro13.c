@@ -11,4 +11,5 @@ void main(){
     scanf("%d", &ip2);
 
     p("\n Sum is %d", ip1 + ip2);
+    getch();
 }
