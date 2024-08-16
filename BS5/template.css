@@ -67,3 +67,22 @@
 .teambox i:hover{
     color: black;
 }
+
+/* products */
+.hover-zoom{
+    transition: all 0.5s;
+}
+
+.hover-zoom:hover img{
+    transform: scale(1.1);
+}
+
+/* .hover-zoom:hover{
+    transform: scale(0.8);
+} */
+
+.hover-overlay .mask{
+    background-color: lightcyan;
+}
+
+
