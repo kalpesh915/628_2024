@@ -8,8 +8,6 @@ void main(){
 
     ptr = (int*) calloc(blocks, sizeof(int));
 
-
-
     for(i=0; i<blocks; i++){
         printf("\n Address is %d and value is %d", ptr, *ptr);
         ptr++;
