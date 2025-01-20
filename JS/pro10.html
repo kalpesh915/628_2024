@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="images/pic_bulboff.gif" id="bulb1">
+    <hr>
+    <button onclick="bulbOn()">On</button>
+    <button onclick="bulbOff()">Off</button>
+</body>
+</html>
+
+<script>
+    let bulb = document.getElementById("bulb1");
+    function bulbOn(){
+        bulb.src = "images/pic_bulbon.gif";
+    }
+
+    function bulbOff(){
+        bulb.src = "images/pic_bulboff.gif";
+    }
+</script>
