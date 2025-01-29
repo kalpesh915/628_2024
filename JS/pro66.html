@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<script>
+    const student = {
+        // roll, fname, lname, city, getData is property
+        roll: 1,
+        fname: "Krishn",
+        lname: "Butani",
+        city: "Rajkot"
+    };
+
+    //console.log(Object.entries(student));
+
+    /*for(let [key, value] of Object.entries(student)){
+        document.write(`<hr> Key is ${key} and value is ${value}`);
+    }*/
+
+   document.write(JSON.stringify(student));
+</script>

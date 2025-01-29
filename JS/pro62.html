@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<script>
+    const student = {
+        // roll, fname, lname, city, getData is property
+        roll: 1,
+        fname: "Krishn",
+        lname: "Butani",
+        city: "Rajkot",
+        marks: {
+            "c":98,
+            "cpp": 89,
+            "html": 99,
+            "css": 89,
+            "bs": 90,
+            "js":99,
+            "react":98
+        },
+        getData: function(){ // method
+            return (this.fname+" "+this.lname).toUpperCase();
+        }
+    };
+
+    student.getMarks = function(){
+        return this.marks.c;
+    }
+    
+    console.log(student.getData());
+    console.log(student.getMarks());
+</script>

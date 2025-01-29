@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<script>
+    const student = {
+        // roll, fname, lname, city, getData is property
+        roll: 1,
+        fname: "Krishn",
+        lname: "Butani",
+        city: "Rajkot",
+        getData: function(){ // method
+            return this.fname+" "+this.lname;
+        }
+    };
+
+    delete student.city;
+    console.log(student);
+    
+</script>
