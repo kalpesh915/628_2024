@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="number" id="number1" oninput="convert(this.value)">
+</body>
+</html>
+
+<script>
+    function convert(value){
+        value = Number(value);
+        console.log("Normal : "+value.toString());
+        console.log("Binary : "+value.toString(2));
+        console.log("Octal : "+value.toString(8));
+        console.log("Decimal : "+value.toString(10));
+        console.log("Hex Decimal : "+value.toString(16));
+    }
+</script>
