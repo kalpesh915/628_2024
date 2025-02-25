@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<script>
+    /*
+       JavaScript Array keys()
+       The Array.keys() method returns an Array Iterator object with the keys of an array.
+    */ 
+
+    const marks = [11, 22, 33, 44, 55, 66, 77, 88, 99, 111];
+
+    //let ans = marks.keys();
+    //let ans = marks.values();
+    let ans = marks.entries();
+    //console.log(ans);
+
+    for(let x of ans){
+        console.log(x);
+    }
+</script>
