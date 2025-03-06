@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+<script>
+    const fruits = [
+        { name: "apples", quantity: 300 },
+        { name: "bananas", quantity: 500 },
+        { name: "oranges", quantity: 200 },
+        { name: "kiwi", quantity: 150 }
+    ];
+
+    const result = Map.groupBy(fruits, ({quantity}) => quantity >= 200 ? "OK" : "Low");
+
+    console.log(result);
+</script>

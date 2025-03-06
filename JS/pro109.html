@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+<script>
+     const students = new Map([
+        [101, "Raj"],
+        [102, "Raj"],
+        [103, "Vrajesh"],
+        [104, "Vrajesh"],
+        [105, "Krishil"],
+        [106, "Krishan"],
+        [107, "Raj"],
+    ]);
+
+    //students.forEach((x) => console.log(x));
+    //students.forEach((v, k) => console.log(`${k} : ${v}`));
+    
+    for(let x of students.entries()){
+        console.log(x);
+    }
+    
+</script>

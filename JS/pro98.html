@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<script>
+    const myIterator = {};
+
+    myIterator[Symbol.iterator] = function (){
+        let count = 0;
+        let done = false;
+
+        return {
+            next(){
+                count += 10;
+
+                if(count >= 100){
+                    done = true;
+                }
+
+                return {
+                    value: count, done:done
+                }
+            }
+        }
+    }
+
+    for(let x of myIterator){
+        console.log(x);
+    }
+</script>

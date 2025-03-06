@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<script>
+    const students = new Set(["Vrajesh", "Krishan", "Raj", "Vrajesh", "vrajesh"]);
+
+    students.add("Krishil");
+    students.add("Het");
+
+    console.log(students.has("Raj"));
+    console.log(students.has("raj"));
+    console.log(students.size);
+    console.log(students.delete("Raj"));
+    console.log(students.has("Raj"));
+    students.clear();
+    console.log(students.size);
+</script>
