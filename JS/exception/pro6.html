@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<script>
+    function division(x, y){
+        if(y == 0){
+            throw "Division is not possible";
+        }
+        document.writeln("<hr> Division is "+(x / y));
+    }
+
+    document.write("<hr> Before Error");
+    try{
+        division(100, 0);
+    }catch(err){
+        document.write("<hr>Error is "+err);
+    }
+    document.write("<hr> After Error");
+</script>
